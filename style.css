@@ -1,0 +1,21 @@
+/*   
+Theme Name: Huso Aragast
+Theme URI: http://husoaragast.com
+Description: Huso Aragast -- WordPress Theme template -- WordPress v4.3
+Author: E. Kirakosyan
+Author URI: 
+Version: 1
+*/
+
+.as-footer ul{
+    margin: 0;
+}
+.as-sponsored ul li a img{
+    padding: 2px 10px;
+}
+.as-sponsored ul li a{
+    text-align: center;
+}
+.event-wrap .as-info-wrap p{
+    min-height: 90px;
+}
